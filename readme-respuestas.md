@@ -1,9 +1,6 @@
-# Ej 1.
-
-
-
 <img width=100% height="100" src="https://wallpapercave.com/wp/h3u2qag.jpg" title="questions-cat"/>
 
+# Ej 1.
 
 
 ❇️ ` ¿Qué comando utilizaste en el paso 11? ¿Por qué?`:
@@ -81,10 +78,11 @@
     - git reflog para ver el hash del commit donde añadimos el título.
     - hash commit final: d6fe1ddf6918f7179ab65be0d6475f9a84eea7f0 
     - git log para verificar que  head está apuntando al commit final.
+    
+    
+<img width=100% height="100" src="https://wallpapercave.com/wp/h3u2qag.jpg" title="questions-cat"/>
 
 # Ej.2 
-
-<img width=100% height="100" src="https://wallpapercave.com/wp/h3u2qag.jpg" title="questions-cat"/>
 
 ✅ GitHub, Fork and Pull Request (name author: DMR)
 
