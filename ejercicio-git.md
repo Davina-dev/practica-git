@@ -1,14 +1,17 @@
+
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Práctica%20GIT&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Davina%20Medina&descAlignY=61&descAlign=71)
 
 
-______
 
 
 <p align="center" >
-<img style={ width=4.2%}  src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47la3hapez3v3flf85kzah2ev2u3n76pjdicmx2rx9&rid=200.webp&ct=g" alt="alt text" title="GIT"/> <img style={ width=9%}  src="https://media2.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif?cid=ecf05e47ktnt9mdqott83n099v1yqgv4skxne4npstnysqdt&rid=giphy.gif&ct=g" alt="alt text" title="GIT"  /></p>
+<img style={ width=4%}  src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47la3hapez3v3flf85kzah2ev2u3n76pjdicmx2rx9&rid=200.webp&ct=g" alt="alt text" title="GIT"/> 
+ </p>
 
-________
-👣 Pasos a seguir: 
+
+# 👣 Pasos a seguir: 
 
 1.  Crear un repositorio
 
@@ -120,7 +123,7 @@ ________
 
 35. Ir al tag htmlify
 _______
-Preguntas: 
+# ⁉️ Preguntas: 
 - ` ¿Qué comando utilizaste en el paso 11? ¿Por qué?`:  
 
 - ` ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?`:
