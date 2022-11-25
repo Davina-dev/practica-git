@@ -1,4 +1,4 @@
-
+# Ej 1.
 
 
 
@@ -82,6 +82,9 @@
     - hash commit final: d6fe1ddf6918f7179ab65be0d6475f9a84eea7f0 
     - git log para verificar que  head está apuntando al commit final.
 
+#Ej.2 
+
 <img width=100% height="100" src="https://wallpapercave.com/wp/h3u2qag.jpg" title="questions-cat"/>
 
+✅ GitHub, Fork and Pull Request (name author: DMR)
 
