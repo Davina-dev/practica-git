@@ -1,7 +1,7 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Práctica%20GIT&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Davina%20Medina&descAlignY=61&descAlign=71)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Práctica%20GIT&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Davina%20Medina&descAlignY=61&descAlign=71)
 
 
 
