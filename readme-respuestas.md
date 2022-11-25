@@ -1,13 +1,11 @@
-_______
 
 
 
-<p <p align="center">
-<img style={ width=13%}  src="https://media1.giphy.com/media/9IY9uTAriL1EAJO5ED/giphy.gif?cid=ecf05e47w70pf375levjwuljlllo1wl11un6s3ubqyc3pvbg&rid=giphy.gif&ct=g
-" alt="alt text" title="questions-cat"/>
-<p>
 
- ____________
+<img width=100% height="100" src="https://wallpapercave.com/wp/h3u2qag.jpg" title="questions-cat"/>
+
+
+
 ❇️ ` ¿Qué comando utilizaste en el paso 11? ¿Por qué?`:
 
         Git reser --hard HEAD~1 
@@ -84,4 +82,6 @@ _______
     - hash commit final: d6fe1ddf6918f7179ab65be0d6475f9a84eea7f0 
     - git log para verificar que  head está apuntando al commit final.
 
-_______________
+<img width=100% height="100" src="https://wallpapercave.com/wp/h3u2qag.jpg" title="questions-cat"/>
+
+
