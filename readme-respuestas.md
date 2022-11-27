@@ -7,23 +7,25 @@
 
         Git reser --hard HEAD~1 
 
-Uso este comando porque quiero deshacer el último commit y además, quiero que se pierdan los cambios realizados en el working copy. En el caso de no queres perder lo que tengo en mi working copy, usaria git reset HEAD~1 sin el --hard.
+ Uso este comando porque quiero deshacer el último commit y además, quiero que se pierdan los cambios realizados en el working copy. En el caso de no queres perder lo que tengo en mi working copy, usaria git reset HEAD~1 sin el --hard.
 Con git log verifico que en vez de dos, ahora solo tengo mi primer commit
 
 ❇️ ` ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?`:
 
         git reser --hard id_commit 
-    Para ver el identificador del commit al que quiero rehacer o volver y
+ 
+ Para ver el identificador del commit al que quiero rehacer o volver y
 
         git log 
-    Para verificar que estoy donde quiero
+  
+   Para verificar que estoy donde quiero
 
 
 ❇️ ` El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?`:
 
         git merge master
     
-Lo hacemos asi porque "htmlify" absorve a "master" y para ello debemos estar en el branch htmlify. No hay conflictos porque antes del merge no hubo modificaciones, está actualizado.
+ Lo hacemos asi porque "htmlify" absorve a "master" y para ello debemos estar en el branch htmlify. No hay conflictos porque antes del merge no hubo modificaciones, está actualizado.
 
 
 ❇️ ` El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?`:
@@ -64,13 +66,13 @@ Lo hacemos asi porque "htmlify" absorve a "master" y para ello debemos estar en 
        Git reset id_commit
        Git restore git-nuestro.md
        
- id_commit:d6fe1ddf6918f7179ab65be0d6475f9a84eea7f0
+ - id_commit:d6fe1ddf6918f7179ab65be0d6475f9a84eea7f0
 
 ❇️ ` ¿Qué comando o comandos usaste en el paso 32?`:
 
         git checkout  id_commit_inicial
 
-Hash commit inicial: 1c4c87cbff4e71edb1cceb42d5c0cdf9c40f804c
+- Hash commit inicial: 1c4c87cbff4e71edb1cceb42d5c0cdf9c40f804c
 
 ❇️ ` ¿Qué comando o comandos usaste en el punto 33?`:
 
