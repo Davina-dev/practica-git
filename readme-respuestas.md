@@ -6,8 +6,9 @@
 ❇️ ` ¿Qué comando utilizaste en el paso 11? ¿Por qué?`:
 
         Git reser --hard HEAD~1 
-    Porque quiero deshacer el último commit y además, quiero que se pierdan los cambios realizados en el working copy. En el caso de no queres perder lo que tengo en mi working copy, usaria git reset HEAD~1 sin el --hard
-    Con git log verifico que en vez de dos, ahora solo tengo mi primer commit
+
+Uso este comando porque quiero deshacer el último commit y además, quiero que se pierdan los cambios realizados en el working copy. En el caso de no queres perder lo que tengo en mi working copy, usaria git reset HEAD~1 sin el --hard.
+Con git log verifico que en vez de dos, ahora solo tengo mi primer commit
 
 ❇️ ` ¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?`:
 
