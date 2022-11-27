@@ -13,10 +13,10 @@
  ____________________
 
 
-- [ 👣 Pasos a seguir ]()
+- [ 👣 Pasos a seguir ](./practicaGit.pdf)
 
 
-- [  ⭐ Respuestas de la práctica]()
+- [  ⭐ Respuestas de la práctica](./readme-respuestas.md)
 
 __________
   ⌨️ with ❤️ by [Davina](https://www.linkedin.com/in/davinamedina/) 😊

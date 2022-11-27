@@ -1,8 +1,13 @@
-<img width=100% height="100" src="https://wallpapercave.com/wp/h3u2qag.jpg" title="questions-cat"/>
-
-# Ej 1.
+_______
 
 
+
+<p <p align="center">
+<img style={ width=13%}  src="https://media1.giphy.com/media/9IY9uTAriL1EAJO5ED/giphy.gif?cid=ecf05e47w70pf375levjwuljlllo1wl11un6s3ubqyc3pvbg&rid=giphy.gif&ct=g
+" alt="alt text" title="questions-cat"/>
+<p>
+
+ ____________
 ❇️ ` ¿Qué comando utilizaste en el paso 11? ¿Por qué?`:
 
         Git reser --hard HEAD~1 
@@ -22,18 +27,19 @@
 
         git merge master
     
-Lo hacemos asi porque "htmlify" absorve a "master" y para ello debemos estar en el branch htmlify. No hay conflictos porque antes del merge no hubo modificaciones, está actualizado.
+    Lo hacemos asi porque "htmlify" absorve a "master" y para ello debemos estar en el branch htmlify.
+    No hay conflictos porque antes del merge no hubo modificaciones, está actualizado.
 
 
 ❇️ ` El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?`:
     
- Encontramos conflicto porque hay modificaciones en las mismas líneas. 
- Debemos arreglar los conflictos y luego realizar un commit con el resultado.
+    Encontramos conflicto porque hay modificaciones en las mismas líneas. 
+    Debemos arreglar los conflictos y luego realizar un commit con el resultado.
 
 
 ❇️ ` El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?`:
 
- No hay conflicto porque lo hemos resuelto anteriormente para poder cambiar a rama master. Y la que había en rama master no tenía diferencias con la version que absorvemos de la rama style.
+    No hay conflicto porque lo hemos resuelto anteriormente para poder cambiar a rama master. Y la que había en rama master no tenía diferencias con la version que absorvemos de la rama style.
 
 ❇️ ` ¿Qué comando o comandos utilizaste en el paso 25?`:
         
@@ -42,7 +48,7 @@ Lo hacemos asi porque "htmlify" absorve a "master" y para ello debemos estar en 
 
 ❇️ ` El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?`:
 
- Sí, porque el archivo de git-nuestro.md de la rama title era el mismo archivo de master modificado. Si antes de mergear title y master hubiéramos modificado, el archivo de master solo podría ser no fast forward. Es decir, no avanzaría el puntero title, sino que aparecería un nuevo commit con dos padres, el que apunta a master y el que apunta a title. Así, mantendría el trabajo que hay en master y absorbería el trabajo que hay en title.
+    Sí, porque el archivo de git-nuestro.md de la rama title era el mismo archivo de master modificado. Si antes de mergear title y master hubiéramos modificado, el archivo de master solo podría ser no fast forward. Es decir, no avanzaría el puntero title, sino que aparecería un nuevo commit con dos padres, el que apunta a master y el que apunta a title. Así, mantendría el trabajo que hay en master y absorbería el trabajo que hay en title.
 
 
 ❇️ ` ¿Qué comando o comandos utilizaste en el paso 27?`:
@@ -59,17 +65,14 @@ Lo hacemos asi porque "htmlify" absorve a "master" y para ello debemos estar en 
 
 ❇️ ` ¿Qué comando o comandos utilizaste en el paso 30?`:
 
-       Git reflog
-       Git reset id_commit
-       Git restore git-nuestro.md
-       
- id_commit:d6fe1ddf6918f7179ab65be0d6475f9a84eea7f0
+        git branch title 
+        git merge title
 
 ❇️ ` ¿Qué comando o comandos usaste en el paso 32?`:
 
         git checkout  id_commit_inicial
 
-Hash commit inicial: 1c4c87cbff4e71edb1cceb42d5c0cdf9c40f804c
+    Hash commit inicial: 1c4c87cbff4e71edb1cceb42d5c0cdf9c40f804c
 
 ❇️ ` ¿Qué comando o comandos usaste en el punto 33?`:
 
@@ -77,14 +80,8 @@ Hash commit inicial: 1c4c87cbff4e71edb1cceb42d5c0cdf9c40f804c
         git checkout id_commit_final
         git log
 
-- git reflog para ver el hash del commit donde añadimos el título.
-- hash commit final: d6fe1ddf6918f7179ab65be0d6475f9a84eea7f0 
-- git log para verificar que  head está apuntando al commit final.
-    
-    
-<img width=100% height="100" src="https://wallpapercave.com/wp/h3u2qag.jpg" title="questions-cat"/>
+    - git reflog para ver el hash del commit donde añadimos el título.
+    - hash commit final: d6fe1ddf6918f7179ab65be0d6475f9a84eea7f0 
+    - git log para verificar que  head está apuntando al commit final.
 
-# Ej.2 
-
-✅ GitHub, Fork and Pull Request (name author: DMR)
-
+_______________
