@@ -60,8 +60,11 @@
 
 ❇️ ` ¿Qué comando o comandos utilizaste en el paso 30?`:
 
-        git branch title 
-        git merge title
+       Git reflog
+       Git reset id_commit
+       Git restore git-nuestro.md
+       
+     id_commit:d6fe1ddf6918f7179ab65be0d6475f9a84eea7f0
 
 ❇️ ` ¿Qué comando o comandos usaste en el paso 32?`:
 
