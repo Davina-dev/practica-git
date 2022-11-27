@@ -6,18 +6,15 @@
 
 
 
-<p>
-<img style={ width=3%}  src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47la3hapez3v3flf85kzah2ev2u3n76pjdicmx2rx9&rid=200.webp&ct=g" alt="alt text" title="GIT"/> 
- <strong> ¿ Te animas a jugar con Git y GitHub ?</strong>
- <img style={ width=6%}  src="https://media2.giphy.com/media/kH6CqYiquZawmU1HI6/100.webp?cid=ecf05e478zxp28r8p8rokltevsxwnhlry8ehgenf50l3k7p8&rid=100.webp&ct=g" alt="alt text" title="GIT"/> </p>
- 
- ____________________
+
+ # ¿ Te animas a practicar ?
 
 
-- [ 👣 Pasos a seguir ](./practicaGit.pdf)
 
+- [ <img style={ width=5%}  src="https://media2.giphy.com/media/kH6CqYiquZawmU1HI6/100.webp?cid=ecf05e478zxp28r8p8rokltevsxwnhlry8ehgenf50l3k7p8&rid=100.webp&ct=g" alt="alt text" title="GIT"/>
+...Pasos a seguir ](./practicaGit.pdf) 
 
-- [  ⭐ Respuestas de la práctica](./readme-respuestas.md)
+- [   <img style={ width=2%}  src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=ecf05e47la3hapez3v3flf85kzah2ev2u3n76pjdicmx2rx9&rid=200.webp&ct=g" alt="alt text" title="GIT"/>... Respuestas de la práctica](./readme-respuestas.md)
 
 __________
   ⌨️ with ❤️ by [Davina](https://www.linkedin.com/in/davinamedina/) 😊
